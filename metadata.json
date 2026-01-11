@@ -1,0 +1,5 @@
+{
+  "name": "Resizely",
+  "description": "User-friendly, fully browser-based image resizing and compression tool. No backend required.",
+  "requestFramePermissions": []
+}
